@@ -15,6 +15,8 @@ The example is based upon the following data model, where the green tables are s
 
 This example takes you down the path of using the Visual Studio Code extension, but it can be equally done with a CLI tool.
 
+If I change this, can I write it back to github?
+
 In this demonstration, you will:
 
 1. Clone the repository
